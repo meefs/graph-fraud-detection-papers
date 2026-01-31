@@ -10,7 +10,7 @@
 
 A curated list of Graph/Transformer-based papers and resources for fraud, anomaly, and outlier detection.
 
-We have an [interactive dashboard](https://yingtongdou.github.io/paper_dashboard/) to view/filter/search the papers listed in this repo.
+We have an [interactive dashboard](https://safe-graph.github.io/paper_dashboard/) to view/filter/search the papers listed in this repo.
 
 To facilitate deep research, we developed a local [RAG-based LLM chatbot](https://github.com/YingtongDou/paper_chatbot) with 250 publicly accessible papers. Please refer to the project README on how to deploy this chatbot for personal use.
 
